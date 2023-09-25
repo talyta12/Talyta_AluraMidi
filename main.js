@@ -35,7 +35,7 @@ function tocaSomtoim () {
 document.querySelector('.tecla_toim').onclick = tocaSomtoim;
 
 function tocaSompsh() {
-    document.querySelector('#som_tecla_pom').play();
+    document.querySelector('#som_tecla_psh').play();
 }
 
 document.querySelector('.tecla_psh').onclick = tocaSompsh;
